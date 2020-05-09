@@ -1,2 +1,4 @@
 Harmadik valtoztatas.
 Negyedik valtozas.
+Otodik valtozas.
+Hatodik valtozas.
